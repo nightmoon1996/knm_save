@@ -1,6 +1,6 @@
 Kaname Save
 
-[h1] Features [/h1]
+Features
 Save Armor
 Save Health
 Save Job
