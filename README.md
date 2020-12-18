@@ -7,3 +7,4 @@ Save Job,
 Save Weapon,
 Save Ammo,
 Save Position,
+Combat Cooldown
